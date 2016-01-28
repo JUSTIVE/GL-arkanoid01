@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\민상\documents\visual studio 2015\projects\blockbreaker\blockbreaker\main.cpp(54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  blockbreaker.vcxproj -> C:\Users\민상\documents\visual studio 2015\Projects\blockbreaker\Debug\blockbreaker.exe
